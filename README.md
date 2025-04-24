@@ -24,7 +24,7 @@ In this project, we use basic machine learning techniques to build a model that 
 
 | Tool/Library     | Purpose                                       |
 |------------------|-----------------------------------------------|
-| Python 🐍        | Core programming language                     |
+| Python           | Core programming language                     |
 | Jupyter Notebook | Interactive development & visualization       |
 | pandas           | Data manipulation and analysis                |
 | numpy            | Numerical computations                        |
