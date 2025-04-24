@@ -1,17 +1,22 @@
-# 🏠 House Price Prediction with Linear Regression
+![Task: Regression](https://img.shields.io/badge/ML_Type-Regression-lightblue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-blue?logo=scikit-learn)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Hartz-byte.Predicting-Housing-Prices-Single-Feature)
+
+# House Price Prediction with Linear Regression
 
 Welcome to my first project in the Machine Learning space!  
 This project predicts house prices using a Linear Regression model trained on synthetic data. It serves as a foundational step in my ML journey and portfolio.
 
 ---
 
-## 📌 Overview
+## Overview
 
 In this project, we use basic machine learning techniques to build a model that predicts house prices based on features like size and number of bedrooms. Though the dataset used here is generated or minimal, the focus is on understanding the ML pipeline from data preparation to model evaluation.
 
 ---
 
-## 🧠 Objectives
+## Objectives
 
 - Understand and implement **Linear Regression** for regression problems
 - Learn **data preprocessing**, model training, and evaluation
@@ -20,7 +25,7 @@ In this project, we use basic machine learning techniques to build a model that 
 
 ---
 
-## 🛠️ Technologies & Libraries Used
+## Technologies & Libraries Used
 
 | Tool/Library     | Purpose                                       |
 |------------------|-----------------------------------------------|
@@ -33,7 +38,7 @@ In this project, we use basic machine learning techniques to build a model that 
 
 ---
 
-## 📈 Workflow
+## Workflow
 
 1. **Data Preparation**  
    - Created a synthetic dataset with features such as house size, number of bedrooms, etc.
@@ -52,11 +57,11 @@ In this project, we use basic machine learning techniques to build a model that 
 
 ---
 
-## 🧠 Learning Takeaways
+## Learning Takeaways
 
 - Built my first regression ML model from scratch
 - Learned how to preprocess, visualize, and split datasets
-- Understood model performance metrics like MSE and R²
+- Understand model performance metrics like MSE and R²
 - Got familiar with Jupyter Notebooks for ML experimentation
 
 ---
