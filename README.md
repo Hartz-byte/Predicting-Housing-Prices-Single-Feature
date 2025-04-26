@@ -1,12 +1,11 @@
 ![Task: Regression](https://img.shields.io/badge/ML_Type-Regression-lightblue)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-blue?logo=scikit-learn)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Hartz-byte.Predicting-Housing-Prices-Single-Feature)
 
 # House Price Prediction with Linear Regression
 
 Welcome to my first project in the Machine Learning space!  
-This project predicts house prices using a Linear Regression model trained on synthetic data. It serves as a foundational step in my ML journey and portfolio.
+This project uses a Linear Regression model trained on synthetic data to predict house prices. It serves as a foundational step in my ML journey and portfolio.
 
 ---
 
